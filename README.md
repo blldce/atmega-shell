@@ -1,2 +1,4 @@
 # atmega-shell
-Simple Atmega328p UART shell impl
+Ardunio UART shell implementation
+
+Requirement :  "gcc-avr"
