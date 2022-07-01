@@ -1,2 +1,2 @@
 # atmega-shell
-Sşmple Atmega328p UART shell impl
+Simple Atmega328p UART shell impl
